@@ -1,0 +1,3 @@
+[['Cawpii', "Drink Coffee 5 time's a day.", 'High', 'Today'],
+ ['Study', 'Code everyday hanggang mabaliw.', 'Medium', 'Tomorrow'],
+ ['Sleep', 'De joke!', 'Low', 'Tomorrow']]
